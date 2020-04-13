@@ -1,3 +1,3 @@
 object Main extends App {
-  println("Hello, World!")
+  println("TralahTek LLC 2020!")
 }
