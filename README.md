@@ -28,7 +28,7 @@
 $ git clone https://github.com/TralahM/scala-by-example.git
 $ cd scala-by-example
 $ sbt
-sbt> run main
+sbt:scala-by-example> run
 ```
 
 # Contributing
